@@ -29,4 +29,4 @@ https://portal.office.com/commerce/manage.aspx?empty=1
 
 https://myapps.microsoft.com/
 
-https://account.activedirectory.windowsazure.com/r#/applications
+Redirects to https://account.activedirectory.windowsazure.com/r#/applications
