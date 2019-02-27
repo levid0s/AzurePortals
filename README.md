@@ -18,3 +18,9 @@ https://portal.office.com
 ### o365 Subscriptions View
 
 https://portal.office.com/commerce/manage.aspx?empty=1
+
+### Apps View
+
+https://myapps.microsoft.com/
+
+https://account.activedirectory.windowsazure.com/r#/applications
