@@ -23,6 +23,13 @@ https://www.microsoftazuresponsorships.com
 
 https://account.azure.com/Subscriptions
 
+### List of Azure DevOps Organisations
+
+https://aex.dev.azure.com
+
+Formerly https://app.vssps.visualstudio.com
+
+
 
 
 # Office 365
