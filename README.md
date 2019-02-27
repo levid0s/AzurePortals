@@ -15,6 +15,13 @@ https://preview.portal.azure.com
 
 https://ea.azure.com
 
+### BizSpark Credits
+
+https://www.microsoftazuresponsorships.com
+
+### PAYG Subscriptions
+
+https://account.azure.com/Subscriptions
 
 
 
@@ -39,3 +46,17 @@ https://portal.office.com/commerce/manage.aspx?empty=1
 https://myapps.microsoft.com/
 
 Redirects to https://account.activedirectory.windowsazure.com/r#/applications
+
+
+
+# Other useful Microsoft Links
+
+### MSDN Portal (new)
+
+https://my.visualstudio.com
+
+### MSDN Portal
+
+https://msdn.microsoft.com
+
+
