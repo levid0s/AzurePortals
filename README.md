@@ -29,6 +29,10 @@ https://aex.dev.azure.com
 
 Formerly https://app.vssps.visualstudio.com
 
+### Reosurce Explorer
+
+https://resources.azure.com/
+
 ### ~~Old Portal (Killed)~~
 
 ~~https://manage.windowsazure.com~~
