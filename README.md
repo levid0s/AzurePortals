@@ -34,7 +34,7 @@ Formerly https://app.vssps.visualstudio.com
 
 # Office 365
 
-### Main Portal
+### Main Landing Page (Not admin)
 
 https://portal.office.com
 
