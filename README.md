@@ -15,6 +15,12 @@ https://ea.azure.com
 
 https://portal.office.com
 
+Now redirects to https://www.office.com
+
+### Admin Portal
+
+https://admin.microsoft.com
+
 ### o365 Subscriptions View
 
 https://portal.office.com/commerce/manage.aspx?empty=1
