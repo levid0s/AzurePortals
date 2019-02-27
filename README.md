@@ -2,11 +2,20 @@ List of Portals used in Azure World
 
 
 # Azure
+
+### Main Azure Portal
+
 https://portal.azure.com
+
+### Preview Portal
+
+https://preview.portal.azure.com
 
 ### EA Portal
 
 https://ea.azure.com
+
+
 
 
 # Office 365
