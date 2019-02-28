@@ -37,6 +37,9 @@ https://resources.azure.com/
 
 ~~https://manage.windowsazure.com~~
 
+### Multi-factor Authentication
+
+https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx
 
 # Office 365
 
