@@ -11,6 +11,14 @@ https://portal.azure.com
 
 https://preview.portal.azure.com
 
+### Azure AD Portal
+
+https://aad.portal.azure.com
+
+### Microsoft 365 Device Management
+
+https://devicemanagement.portal.azure.com
+
 ### EA Portal
 
 https://ea.azure.com
@@ -32,6 +40,10 @@ Formerly https://app.vssps.visualstudio.com
 ### Reosurce Explorer
 
 https://resources.azure.com/
+
+### Cloud Shell Only
+
+https://shell.azure.com
 
 ### ~~Old Portal (Killed)~~
 
@@ -62,11 +74,20 @@ Redirects to https://account.activedirectory.windowsazure.com/r#/applications
 
 
 
+
 # Other useful Microsoft Links
 
-### MSDN Portal (new)
+### Visual Studio Subscriptions Administration
+
+https://manage.visualstudio.com
+
+### My Visual Studio & MSDN Benefits 
 
 https://my.visualstudio.com
+
+### Microsoft Next Gen Volume Licensing
+
+https://businessaccount.microsoft.com
 
 ### MSDN Portal
 
