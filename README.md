@@ -31,6 +31,10 @@ https://www.microsoftazuresponsorships.com
 
 https://account.azure.com/Subscriptions
 
+### Azure Signup Portal
+
+https://signup.azure.com/
+
 ### List of Azure DevOps Organisations
 
 https://aex.dev.azure.com
