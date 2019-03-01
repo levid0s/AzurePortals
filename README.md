@@ -75,6 +75,9 @@ https://myapps.microsoft.com/
 
 Redirects to https://account.activedirectory.windowsazure.com/r#/applications
 
+### Power BI
+
+https://app.powerbi.com/admin-portal/
 
 
 
