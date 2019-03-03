@@ -53,6 +53,10 @@ https://shell.azure.com
 
 https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx
 
+### Cloud App Security Portal
+
+https://portal.cloudappsecurity.com
+
 # Office 365
 
 ### Main Landing Page (Not admin)
