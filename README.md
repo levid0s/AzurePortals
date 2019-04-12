@@ -83,6 +83,8 @@ Redirects to https://account.activedirectory.windowsazure.com/r#/applications
 
 https://app.powerbi.com/admin-portal/
 
+### Teams
+https://admin.teams.microsoft.com/
 
 
 # Other useful Microsoft Links
