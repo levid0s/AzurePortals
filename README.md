@@ -57,7 +57,7 @@ https://account.activedirectory.windowsazure.com/usermanagement/multifactorverif
 
 https://portal.cloudappsecurity.com
 
-# Office 365
+# Office 365/Microsoft 365
 
 ### Main Landing Page (Not admin)
 
@@ -78,6 +78,10 @@ https://portal.office.com/commerce/manage.aspx?empty=1
 https://myapps.microsoft.com/
 
 Redirects to https://account.activedirectory.windowsazure.com/r#/applications
+
+## Windows Defender Security Center
+
+https://securitycenter.windows.com/
 
 ### Power BI
 
