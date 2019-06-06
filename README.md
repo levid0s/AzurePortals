@@ -57,6 +57,11 @@ https://account.activedirectory.windowsazure.com/usermanagement/multifactorverif
 
 https://portal.cloudappsecurity.com
 
+### Windows Defender ATP
+
+https://securitycenter.windows.com
+
+
 # Office 365
 
 ### Main Landing Page (Not admin)
