@@ -96,6 +96,10 @@ https://app.powerbi.com/admin-portal/
 
 https://manage.visualstudio.com
 
+### Services Hub (Premier Support Portal)
+
+https://serviceshub.microsoft.com/databoard
+
 ### My Visual Studio & MSDN Benefits 
 
 https://my.visualstudio.com
