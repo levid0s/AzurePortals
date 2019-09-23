@@ -53,6 +53,15 @@ https://account.activedirectory.windowsazure.com/usermanagement/multifactorverif
 
 https://azure.microsoft.com/en-us/status/
 
+### Windows Defender ATP
+
+https://securitycenter.windows.com
+
+### Windows Defender ATP Other portal
+
+https://portal.atp.azure.com/
+
+
 # Office 365
 
 ### Main Landing Page (Not admin)
@@ -174,6 +183,10 @@ Formerly https://app.vssps.visualstudio.com
 ### Visual Studio Subscriptions Administration
 
 https://manage.visualstudio.com
+
+### Services Hub (Premier Support Portal)
+
+https://serviceshub.microsoft.com/databoard
 
 ### My Visual Studio & MSDN Benefits 
 
