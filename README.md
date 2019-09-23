@@ -61,6 +61,10 @@ https://portal.cloudappsecurity.com
 
 https://securitycenter.windows.com
 
+### Windows Defender ATP Other portal
+
+https://portal.atp.azure.com/
+
 
 # Office 365
 
